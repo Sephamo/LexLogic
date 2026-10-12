@@ -1,0 +1,25 @@
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Build output
+target/
+build/
+out/
+
+# Environment / secrets
+.env
+.env.*
+
+# Local Spring configuration
+application-local.properties
+
+# Logs
+*.log
+startup-log.txt
+
+# OS files
+.DS_Store
+Thumbs.db
