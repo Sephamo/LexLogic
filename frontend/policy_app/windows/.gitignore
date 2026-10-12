@@ -1,0 +1,47 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+flutter_export_environment.sh
+
+# Generated plugin files
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Android
+android/.gradle/
+android/local.properties
+android/key.properties
+
+# iOS / macOS
+ios/Pods/
+ios/.symlinks/
+macos/Pods/
+macos/.symlinks/
+
+# Windows
+windows/flutter/ephemeral/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+x64/
+x86/
+*.[Cc]ache
+!*.[Cc]ache/
+
+# Environment / secrets
+.env
+.env.*
+
+# Logs / OS
+*.log
+.DS_Store
+Thumbs.db
